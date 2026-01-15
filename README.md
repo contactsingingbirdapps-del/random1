@@ -24,3 +24,9 @@ Builders who like solving real problems
 Roles We’re Hiring For
 AI / LLM Engineers
 Backend Engineers (AI systems focus)
+
+How to Apply 
+Preferred
+Open an Issue titled: "engineering-hiring"
+Short note on background - What problems interest you
+
