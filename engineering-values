@@ -1,0 +1,53 @@
+# How We Build Software
+This document explains how we think about engineering.
+It exists so that people who work with us know what to expect.
+If this resonates with you, we’ll probably work well together.
+If it doesn’t, that’s completely okay.
+
+## Our Philosophy
+We optimize for:
+- Clarity over cleverness
+- Long-term maintainability over short-term speed
+- Boring, reliable solutions
+We believe good software is:
+- Easy to read
+- Easy to change
+- Hard to break accidentally
+
+## How We Design Systems
+- Start simple, then evolve
+- Prefer fewer abstractions
+- Avoid premature optimization
+- Design for the next change, not the last one
+
+## How We Review Code
+When reviewing pull requests, we focus on:
+- Can someone new understand this in 6 months?
+- Are names clear and intentional?
+- Is complexity justified?
+- Is the behavior obvious?
+We don’t nitpick formatting.
+We do care deeply about reasoning.
+
+## Speed vs Quality
+
+- We move fast early
+- We slow down where mistakes are costly
+- We refactor when learning changes the design
+
+## What Good Code Looks Like to Us
+
+- Small, focused functions
+- Clear boundaries
+- Explicit trade-offs
+- Honest comments (why, not what)
+
+## What Bad Code Looks Like to Us
+- Over-engineering
+- Copy-paste without understanding
+- Magic behavior without explanation
+- Code that only the author understands
+
+## Final Note
+We don’t expect perfection.
+We value thoughtful builders who care about the craft.
